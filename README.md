@@ -6,7 +6,7 @@ I recently analyzed a quarter's worth of orders from a fictitious restaurant ser
 3️⃣ Italian cuisine emerges as the most popular category, with room for further expansion.<br>
 4️⃣ Peak business hours are 12-1 PM and 5-6 PM – great opportunities for promotions and customer engagement!<br><br>
 
-💡 Future Recommendations:<br>
+💡** Future Recommendations:**<br>
 Focus on developing more Italian-inspired dishes to cater to the high demand.<br>
 Explore optimizing the menu by revisiting underperforming items like Chicken Tacos.<br>
 It’s amazing how data can unveil trends and help shape business decisions! What’s next? I’ll continue honing my analytics skills, tackling more complex datasets to uncover deeper insights. 🔥
