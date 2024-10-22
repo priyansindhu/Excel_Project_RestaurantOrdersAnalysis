@@ -12,5 +12,5 @@ Focus on developing more Italian-inspired dishes to cater to the high demand.<br
 Explore optimizing the menu by revisiting underperforming items like Chicken Tacos.<br>
 It’s amazing how data can unveil trends and help shape business decisions! What’s next? I’ll continue honing my analytics skills, tackling more complex datasets to uncover deeper insights. 🔥
 
-![Excel Dashboard](Desktop/Excel_Dashboard.png)
+![Excel Dashboard](Excel_Dashboard.png)
 
